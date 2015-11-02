@@ -16,6 +16,5 @@
             "VasiliyTW\\Notification\\": "src/notification"
         }
     },   
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }
