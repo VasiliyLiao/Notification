@@ -1,7 +1,7 @@
 {
     "name": "vasiliy_liao/notification",
     "description": "use to push notification for android/ios phone",
-    "type": "php notification",
+    "type": "php_notification",
     "authors": [
         {
             "name": "Vasiliy",
