@@ -18,7 +18,7 @@ composer install VasiliyTW/Notifiaction
 
 ### 2. How to use the package 
 
-```
+```php
 <?php
 
 require 'vendor/autoload.php';
@@ -50,7 +50,7 @@ $gcm->push('device_token_array','your_notification_info');
 ### 3. Simple Example
 you can easily use to push Notification for Your Android/IOS Phone.
 
-```
+```php
 require 'vendor/autoload.php';
 
 $config = [
