@@ -7,13 +7,13 @@ You can quickly use this package to build your Push Notification Server by PHP.
 ```
 require:{
    ...
-    "VasiliyTW/Notification":"*"
+    "vasiliy_liao/notification":"*"
    ...
 }
 ```
 OR 
 ```
-composer install VasiliyTW/Notifiaction
+composer install vasiliy_liao/notification
 ```
 
 ### 2. How to use the package 
