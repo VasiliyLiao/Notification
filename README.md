@@ -13,7 +13,7 @@ require:{
 ```
 OR 
 ```
-composer install vasiliy_liao/notification
+composer require vasiliy_liao/notification
 ```
 
 ### 2. How to use the package 
